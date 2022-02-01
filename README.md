@@ -3,5 +3,5 @@
 Just a basic blog template.
 
 # Start Locally Front End
-npm install</br>
-npm start
+<code>npm install</code></br>
+<code>npm start</code>
